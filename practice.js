@@ -32,3 +32,15 @@ var anotherArrayFull = [1, 2, 3];
 console.log(anotherArrayFull);
 anotherArrayFull.length = 0;
 console.log(anotherArrayFull);
+
+// Q5: How would you check if a number is an integer?
+function isInt(num) {
+  if (num % 1 === 0) {
+    console.log("Integer");
+  } else {
+    console.log("Not an integer");
+  }
+}
+
+isInt(5);
+isInt(5.5);
