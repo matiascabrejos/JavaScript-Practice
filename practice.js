@@ -10,3 +10,25 @@ function reverseWords(str) {
 }
 
 console.log(reverseWords("Welcome to this Javascript Guide!"));
+
+// Q3: How to check if an object is an array or not? Provide some code.
+
+var arrayList = [1, 2, 3];
+var notAnArray = {
+  array: false,
+};
+console.log(Array.isArray(arrayList));
+console.log(Array.isArray(notAnArray));
+
+// Q4: How to empty an array in JavaScript?
+// Method 1
+var arrayFull = [1, 2, 3];
+console.log(arrayFull);
+var arrayFull = [];
+console.log(arrayFull);
+
+// Method 2
+var anotherArrayFull = [1, 2, 3];
+console.log(anotherArrayFull);
+anotherArrayFull.length = 0;
+console.log(anotherArrayFull);
