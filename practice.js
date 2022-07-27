@@ -44,3 +44,5 @@ function isInt(num) {
 
 isInt(5);
 isInt(5.5);
+
+// Q6: Implement enqueue and dequeue using only two stacks
