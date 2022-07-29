@@ -46,3 +46,9 @@ isInt(5);
 isInt(5.5);
 
 // Q6: Implement enqueue and dequeue using only two stacks
+
+// Q7: Make this work
+
+// Problem
+
+// duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5]
