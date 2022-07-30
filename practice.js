@@ -52,3 +52,8 @@ isInt(5.5);
 // Problem
 
 // duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5]
+
+// Q8: Write a "mul" function which will properly when invoked as below syntax
+// Problem
+// console.log(mul(2)(3)(4)); // output : 24
+// console.log(mul(4)(3)(4)); // output : 48
