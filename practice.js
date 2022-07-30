@@ -57,3 +57,9 @@ isInt(5.5);
 // Problem
 // console.log(mul(2)(3)(4)); // output : 24
 // console.log(mul(4)(3)(4)); // output : 48
+
+// Q9: Write a function that would allow you to do this ?
+
+// var addSix = createBase(6);
+// addSix(10); // returns 16
+// addSix(21); // returns 27
