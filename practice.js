@@ -63,3 +63,8 @@ isInt(5.5);
 // var addSix = createBase(6);
 // addSix(10); // returns 16
 // addSix(21); // returns 27
+
+// Q10: FizzBuzz Challenge
+
+// Problem
+// Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5.
