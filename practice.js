@@ -68,3 +68,8 @@ isInt(5.5);
 
 // Problem
 // Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5.
+
+// Q11: Given two strings, return true if they are anagrams of one another
+
+// Problem
+// For example: Mary is an anagram of Army
