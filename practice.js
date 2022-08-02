@@ -73,3 +73,8 @@ isInt(5.5);
 
 // Problem
 // For example: Mary is an anagram of Army
+
+// Q12: How would you use a closure to create a private counter ?
+
+// Answer
+// You can create a function within an outer function (a closure) that allows you to update a private variable but the variable wouldn't be accessible from outside the function without the use of a helper function.
