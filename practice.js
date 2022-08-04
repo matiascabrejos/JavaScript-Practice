@@ -80,3 +80,13 @@ isInt(5.5);
 // You can create a function within an outer function (a closure) that allows you to update a private variable but the variable wouldn't be accessible from outside the function without the use of a helper function.
 
 // Q13: Provide some examples of non-bulean value coercion to a boolean one
+
+// Q14: What will be the output of the following code ?
+
+// Problem
+
+//   var y = 1;
+// if (function f() {}) {
+//   y += typeof f;
+// }
+// console.log(y);
