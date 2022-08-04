@@ -78,3 +78,5 @@ isInt(5.5);
 
 // Answer
 // You can create a function within an outer function (a closure) that allows you to update a private variable but the variable wouldn't be accessible from outside the function without the use of a helper function.
+
+// Q13: Provide some examples of non-bulean value coercion to a boolean one
