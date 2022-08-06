@@ -90,3 +90,13 @@ isInt(5.5);
 //   y += typeof f;
 // }
 // console.log(y);
+
+// Q15: What will the following code output ?
+  
+// Problem
+// (function() {
+//   var a = b = 5;
+// })();
+
+// console.log(b);
+
