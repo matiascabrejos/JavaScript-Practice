@@ -92,7 +92,7 @@ isInt(5.5);
 // console.log(y);
 
 // Q15: What will the following code output ?
-  
+
 // Problem
 // (function() {
 //   var a = b = 5;
@@ -100,3 +100,7 @@ isInt(5.5);
 
 // console.log(b);
 
+// Q16: Write a function that would allow you to do this
+
+// Problem
+// multiply(5)(6);
