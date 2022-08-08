@@ -104,3 +104,6 @@ isInt(5.5);
 
 // Problem
 // multiply(5)(6);
+
+// Q17: How does the this keyword work? Provide some code examples
+
