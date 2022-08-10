@@ -85,6 +85,12 @@ console.log(outputStack);
 
 // duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5]
 
+function duplicateItems(arr) {
+  return arr.concat(arr);
+}
+
+console.log(duplicateItems([1, 2]));
+
 // Q8: Write a "mul" function which will properly when invoked as below syntax
 // Problem
 // console.log(mul(2)(3)(4)); // output : 24
