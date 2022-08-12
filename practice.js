@@ -114,6 +114,18 @@ console.log(mul(4)(3)(4)); // output : 48
 // addSix(10); // returns 16
 // addSix(21); // returns 27
 
+function createBase(baseNumber) {
+  return function (N) {
+    // we are referencing baseNumber here even though it was declared
+    // outside of this function. Closures allow us to do this in JavaScript
+    return baseNumber + N;
+  };
+}
+
+var addSix = createBase(6);
+console.log(addSix(10));
+console.log(addSix(21));
+
 // Q10: FizzBuzz Challenge
 
 // Problem
