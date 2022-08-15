@@ -61,4 +61,12 @@ console.log(isAnagram(firstWord, secondWord)); // true
 // Problem
 // multiply(5)(6);
 
+function multiply(a) {
+  return function (b) {
+    return a * b;
+  };
+}
+
+console.log(multiply(5)(6));
+
 // Q17: How does the this keyword work? Provide some code examples
