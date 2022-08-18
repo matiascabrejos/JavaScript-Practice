@@ -98,6 +98,8 @@ c.retrieve(); // => The counter is currently at: 14
 
 // console.log(b);
 
+// The code above will output 5 even though it seems as if the variable was declared within a function and can't be accessed outside of it.
+
 // Q16: Write a function that would allow you to do this
 
 // Problem
