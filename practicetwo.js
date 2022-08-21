@@ -116,3 +116,7 @@ function multiply(a) {
 console.log(multiply(5)(6));
 
 // Q17: How does the this keyword work? Provide some code examples
+
+// https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
+
+
