@@ -119,4 +119,6 @@ console.log(multiply(5)(6));
 
 // https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
 
+// Q18: How would you create a private variable in JavaScript?
+
 
