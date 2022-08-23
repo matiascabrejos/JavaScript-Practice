@@ -121,4 +121,7 @@ console.log(multiply(5)(6));
 
 // Q18: How would you create a private variable in JavaScript?
 
+// https://css-tricks.com/implementing-private-variables-in-javascript/
+
+
 
