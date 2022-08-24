@@ -123,5 +123,7 @@ console.log(multiply(5)(6));
 
 // https://css-tricks.com/implementing-private-variables-in-javascript/
 
+// Q19: What is Closure in JavaScript? Provide an example
+
 
 
