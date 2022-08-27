@@ -123,6 +123,13 @@ console.log(multiply(5)(6));
 
 // https://css-tricks.com/implementing-private-variables-in-javascript/
 
+// constructor() {
+//   this._milesDriven = 0;
+//   this._speed = 0;
+// }
+
+
+
 // Q19: What is Closure in JavaScript? Provide an example
 
 // https://www.javascripttutorial.net/javascript-closure/
