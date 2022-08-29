@@ -1,3 +1,5 @@
+// PART 2 OF PRACTICE FROM Q10
+
 // Q10: FizzBuzz Challenge
 
 // Problem
