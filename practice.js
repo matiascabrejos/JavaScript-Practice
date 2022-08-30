@@ -1,3 +1,5 @@
+// PART 1 OF PRACTICE TO Q10
+
 // Q2: Given a string, reverse each word in the sentence
 // Problem
 // For example Welcome to this Javascript Guide! should be become emocleW ot siht tpircsavaJ !ediuG
