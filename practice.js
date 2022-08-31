@@ -1,4 +1,4 @@
-// PART 1 OF PRACTICE TO Q10
+// PART 1 OF PRACTICE => Q1 TO Q10
 
 // Q2: Given a string, reverse each word in the sentence
 // Problem

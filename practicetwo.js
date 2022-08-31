@@ -1,4 +1,4 @@
-// PART 2 OF PRACTICE FROM Q10
+// PART 2 OF PRACTICE => FROM Q10 TO THE END
 
 // Q10: FizzBuzz Challenge
 
