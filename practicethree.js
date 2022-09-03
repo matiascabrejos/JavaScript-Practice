@@ -9,3 +9,15 @@
 // Symbol
 // Number
 // Object
+
+// Q7. How can you create an object in JavaScript?
+// JavaScript supports Object concept very well. You can create an object using the object literal as follows −
+
+// 1
+// 2
+// 3
+// 4
+// var emp = {
+// name: "Daniel",
+// age: 23
+// };
