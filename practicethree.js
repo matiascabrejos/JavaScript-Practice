@@ -21,3 +21,12 @@
 // name: "Daniel",
 // age: 23
 // };
+
+// Q8. How can you create an Array in JavaScript?
+// You can define arrays using the array literal as follows-
+
+
+// 1
+// 2
+// var x = [];
+// var y = [1, 2, 3, 4, 5];
