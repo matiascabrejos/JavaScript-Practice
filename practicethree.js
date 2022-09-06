@@ -30,3 +30,13 @@
 // 2
 // var x = [];
 // var y = [1, 2, 3, 4, 5];
+
+// Q9. What is a name function in JavaScript & how to define it?
+// A named function declares a name as soon as it is defined. It can be defined using function keyword as :
+
+// 1
+// 2
+// 3
+// function named(){
+// // write code here
+// }
