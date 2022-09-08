@@ -45,3 +45,6 @@
 // The scope of a variable is the region of your program in which it is defined. JavaScript variable will have only two scopes.
 // • Global Variables − A global variable has global scope which means it is visible everywhere in your JavaScript code.
 // • Local Variables − A local variable will be visible only within a function where it is defined. Function parameters are always local to that function.
+
+// Q13. What is the purpose of ‘This’ operator in JavaScript?
+// The JavaScript this keyword refers to the object it belongs to. This has different values depending on where it is used. In a method, this refers to the owner object and in a function, this refers to the global object.
