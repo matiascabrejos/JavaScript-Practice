@@ -1,4 +1,6 @@
 // Another Q and Exercises
+// https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
+
 // Q3. What are the data types supported by JavaScript?
 // The data types supported by JavaScript are:
 
@@ -48,3 +50,4 @@
 
 // Q13. What is the purpose of ‘This’ operator in JavaScript?
 // The JavaScript this keyword refers to the object it belongs to. This has different values depending on where it is used. In a method, this refers to the owner object and in a function, this refers to the global object.
+
