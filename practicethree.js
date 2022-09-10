@@ -51,3 +51,4 @@
 // Q13. What is the purpose of ‘This’ operator in JavaScript?
 // The JavaScript this keyword refers to the object it belongs to. This has different values depending on where it is used. In a method, this refers to the owner object and in a function, this refers to the global object.
 
+// End of exercises
