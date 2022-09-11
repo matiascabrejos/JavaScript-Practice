@@ -51,4 +51,7 @@
 // Q13. What is the purpose of ‘This’ operator in JavaScript?
 // The JavaScript this keyword refers to the object it belongs to. This has different values depending on where it is used. In a method, this refers to the owner object and in a function, this refers to the global object.
 
+// Q15. What is Closure? Give an example.
+// Closures are created whenever a variable that is defined outside the current scope is accessed from within some inner scope. It gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created. To use a closure, simply define a function inside another function and expose it.
+
 // End of exercises
