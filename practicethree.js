@@ -54,4 +54,11 @@
 // Q15. What is Closure? Give an example.
 // Closures are created whenever a variable that is defined outside the current scope is accessed from within some inner scope. It gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created. To use a closure, simply define a function inside another function and expose it.
 
+// Q17. What are the variable naming conventions in JavaScript?
+// The following rules are to be followed while naming variables in JavaScript:
+
+// You should not use any of the JavaScript reserved keyword as variable name. For example, break or boolean variable names are not valid.
+// JavaScript variable names should not start with a numeral (0-9). They must begin with a letter or the underscore character. For example, 123name is an invalid variable name but _123name or name123 is a valid one.
+// JavaScript variable names are case sensitive. For example, Test and test are two different variables.
+
 // End of exercises
