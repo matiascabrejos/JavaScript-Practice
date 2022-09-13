@@ -61,4 +61,7 @@
 // JavaScript variable names should not start with a numeral (0-9). They must begin with a letter or the underscore character. For example, 123name is an invalid variable name but _123name or name123 is a valid one.
 // JavaScript variable names are case sensitive. For example, Test and test are two different variables.
 
+// Q18. How does TypeOf Operator work?
+// The typeof operator is used to get the data type of its operand. The operand can be either a literal or a data structure such as a variable, a function, or an object. It is a unary operator that is placed before its single operand, which can be of any type. Its value is a string indicating the data type of the operand.
+
 // End of exercises
