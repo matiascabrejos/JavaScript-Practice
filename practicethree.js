@@ -67,4 +67,14 @@
 // Q18. How does TypeOf Operator work?
 // The typeof operator is used to get the data type of its operand. The operand can be either a literal or a data structure such as a variable, a function, or an object. It is a unary operator that is placed before its single operand, which can be of any type. Its value is a string indicating the data type of the operand.
 
+
+// Q19. How to create a cookie using JavaScript?
+// The simplest way to create a cookie is to assign a string value to the document.cookie object, which looks like this-
+
+// Syntax :
+
+
+// 1
+// document.cookie = "key1 = value1; key2 = value2; expires = date";
+
 // End of exercises
