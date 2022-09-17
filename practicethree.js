@@ -77,4 +77,11 @@
 // 1
 // document.cookie = "key1 = value1; key2 = value2; expires = date";
 
+// Q21. How to delete a cookie using JavaScript?
+// If you want to delete a cookie so that subsequent attempts to read the cookie in JavaScript return nothing, you just need to set the expiration date to a time in the past. You should define the cookie path to ensure that you delete the right cookie. Some browsers will not let you delete a cookie if you don’t specify the path.
+
+// Now let’s move on to the next section of JavaScript interview questions.
+
+// Want to upskill yourself to get ahead in your career? Check out this video
+
 // End of exercises
