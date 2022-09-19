@@ -90,4 +90,11 @@
 
 // Want to upskill yourself to get ahead in your career? Check out this video
 
+// Q23. List out the different ways an HTML element can be accessed in a JavaScript code.
+// Here are the list of ways an HTML element can be accessed in a Javascript code:
+// (i) getElementById(‘idname’): Gets an element by its ID name
+// (ii) getElementsByClass(‘classname’): Gets all the elements that have the given classname.
+// (iii) getElementsByTagName(‘tagname’): Gets all the elements that have the given tag name.
+// (iv) querySelector(): This function takes css style selector and returns the first selected element.
+
 // End of exercises
