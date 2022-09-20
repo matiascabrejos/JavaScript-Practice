@@ -97,4 +97,12 @@
 // (iii) getElementsByTagName(‘tagname’): Gets all the elements that have the given tag name.
 // (iv) querySelector(): This function takes css style selector and returns the first selected element.
 
+// Q24. In how many ways a JavaScript code can be involved in an HTML file?
+// There are 3 different ways in which a JavaScript code can be involved in an HTML file:
+
+// Inline
+// Internal
+// External
+// An inline function is a JavaScript function, which is assigned to a variable created at runtime. You can differentiate between Inline Functions and Anonymous since an inline function is assigned to a variable and can be easily reused. When you need a JavaScript for a function, you can either have the script integrated in the page you are working on, or you can have it placed in a separate file that you call, when needed. This is the difference between an internal script and an external script.
+
 // End of exercises
