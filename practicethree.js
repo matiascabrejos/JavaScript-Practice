@@ -105,4 +105,16 @@
 // External
 // An inline function is a JavaScript function, which is assigned to a variable created at runtime. You can differentiate between Inline Functions and Anonymous since an inline function is assigned to a variable and can be easily reused. When you need a JavaScript for a function, you can either have the script integrated in the page you are working on, or you can have it placed in a separate file that you call, when needed. This is the difference between an internal script and an external script.
 
+
+// Q27. What is the difference between Local storage & Session storage?
+// Storage - Edureka
+
+
+
+// Local Storage – The data is not sent back to the server for every HTTP request (HTML, images, JavaScript, CSS, etc) – reducing the amount of traffic between client and server. It will stay until it is manually cleared through settings or program.
+
+// Session Storage – It is similar to local storage; the only difference is while data stored in local storage has no expiration time, data stored in session storage gets cleared when the page session ends. Session Storage will leave when the browser is closed.
+
+// In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
+
 // End of exercises
