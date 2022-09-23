@@ -117,4 +117,7 @@
 
 // In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
 
+// Q28. What is the difference between the operators ‘==‘ & ‘===‘?
+// The main difference between “==” and “===” operator is that formerly compares variable by making type correction e.g. if you compare a number with a string with numeric literal, == allows that, but === doesn’t allow that, because it not only checks the value but also type of two variable, if two variables are not of the same type “===” return false, while “==” return true.
+
 // End of exercises
