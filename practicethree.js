@@ -131,4 +131,10 @@
 // Vue
 
 
+// Q33. What is the difference between innerHTML & innerText?
+// innerHTML – It will process an HTML tag if found in a string
+
+// innerText – It will not process an HTML tag if found in a string
+
+
 // End of exercises
