@@ -137,4 +137,7 @@
 // innerText – It will not process an HTML tag if found in a string
 
 
+// Q35. What is NaN in JavaScript?
+// NaN is a short form of Not a Number. Since NaN always compares unequal to any number, including NaN, it is usually used to indicate an error condition for a function that should return a valid number. When a string or something else is being converted into a number and that cannot be done, then we get to see NaN.
+
 // End of exercises
