@@ -143,4 +143,41 @@
 // Q39. What are Exports & Imports?
 // Imports and exports help us to write modular JavaScript code. Using Imports and exports we can split our code into multiple files. For example-
 
+// Q44. How to empty an Array in JavaScript?
+// There are a number of methods you can use to empty an array:
+
+// Method 1 –
+
+
+// 1
+// arrayList = []
+// Above code will set the variable arrayList to a new empty array. This is recommended if you don’t have references to the original array arrayList anywhere else, because it will actually create a new, empty array. You should be careful with this method of emptying the array, because if you have referenced this array from another variable, then the original reference array will remain unchanged.
+
+// Method 2 –
+
+
+// 1
+// arrayList.length = 0;
+// The code above will clear the existing array by setting its length to 0. This way of emptying the array also updates all the reference variables that point to the original array. Therefore, this method is useful when you want to update all reference variables pointing to arrayList.
+
+// Method 3 –
+
+
+// 1
+// arrayList.splice(0, arrayList.length);
+// The implementation above will also work perfectly. This way of emptying the array will also update all the references to the original array.
+
+// Method 4 –
+
+
+// 1
+// 2
+// 3
+// 4
+// while(arrayList.length)
+// {
+// arrayList.pop();
+// }
+// The implementation above can also empty arrays, but it is usually not recommended to use this method often.
+
 // End of exercises
