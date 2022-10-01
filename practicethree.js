@@ -184,4 +184,21 @@
 // A prompt box is a box which allows the user to enter input by providing a text box. The prompt() method displays a dialog box that prompts the visitor for input. A prompt box is often used if you want the user to input a value before entering a page. When a prompt box pops up, the user will have to click either “OK” or “Cancel” to proceed after entering an input value.
 
 
+// Q42. What will be the output of the code below?
+
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// var Y = 1;
+// if (function F(){})
+// {
+// y += Typeof F;</span>
+// }
+// console.log(y);
+// The output would be 1undefined. The if condition statement evaluates using eval, so eval(function f(){}) returns function f(){} (which is true). Therefore, inside the if statement, executing typeof f returns undefined because the if statement code executes at run time, and the statement inside the if condition is evaluated during run time.
+
+
 // End of exercises
