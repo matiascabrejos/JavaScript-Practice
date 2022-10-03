@@ -136,6 +136,10 @@
 // React
 // Vue
 
+// Q32. What is the difference between window & document in JavaScript?
+// Window	Document
+// JavaScript window is a global object which holds variables, functions, history, location.	The document also comes under the window and can be considered as the property of the window.
+
 
 // Q33. What is the difference between innerHTML & innerText?
 // innerHTML – It will process an HTML tag if found in a string
