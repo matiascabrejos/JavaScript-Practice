@@ -90,6 +90,12 @@
 
 // Want to upskill yourself to get ahead in your career? Check out this video
 
+// Q22. What is the difference between Attributes and Property?
+// Attributes-  provide more details on an element like id, type, value etc.
+
+// Property-  is the value assigned to the property like type=”text”, value=’Name’ etc.
+
+
 // Q23. List out the different ways an HTML element can be accessed in a JavaScript code.
 // Here are the list of ways an HTML element can be accessed in a Javascript code:
 // (i) getElementById(‘idname’): Gets an element by its ID name
