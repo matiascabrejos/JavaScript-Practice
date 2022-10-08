@@ -43,6 +43,12 @@
 // // write code here
 // }
 
+// Q10. Can you assign an anonymous function to a variable and pass it as an argument to another function?
+// Yes! An anonymous function can be assigned to a variable. It can also be passed as an argument to another function.
+
+// In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
+
+
 // Q12. What are the scopes of a variable in JavaScript?
 // The scope of a variable is the region of your program in which it is defined. JavaScript variable will have only two scopes.
 // • Global Variables − A global variable has global scope which means it is visible everywhere in your JavaScript code.
