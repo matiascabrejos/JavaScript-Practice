@@ -49,6 +49,23 @@
 // In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
 
 
+// Q11. What is argument objects in JavaScript & how to get the type of arguments passed to a function?
+// JavaScript variable arguments represents the arguments that are passed to a function. Using typeof operator, we can get the type of arguments passed to a function. For example −
+
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// function func(x){
+// console.log(typeof x, arguments.length);
+// }
+// func(); //==> "undefined", 0
+// func(7); //==> "number", 1
+// func("1", "2", "3"); //==> "string", 3
+
+
 // Q12. What are the scopes of a variable in JavaScript?
 // The scope of a variable is the region of your program in which it is defined. JavaScript variable will have only two scopes.
 // • Global Variables − A global variable has global scope which means it is visible everywhere in your JavaScript code.
