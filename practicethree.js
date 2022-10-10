@@ -1,6 +1,9 @@
 // Another Q and Exercises
 // https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
 
+// Q2. What is JavaScript?
+// JavaScript is a lightweight, interpreted programming language with object-oriented capabilities that allows you to build interactivity into otherwise static HTML pages. The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers.
+
 // Q3. What are the data types supported by JavaScript?
 // The data types supported by JavaScript are:
 
