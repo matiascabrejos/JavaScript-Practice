@@ -1,6 +1,9 @@
 // Another Q and Exercises
 // https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
 
+
+
+
 // Q2. What is JavaScript?
 // JavaScript is a lightweight, interpreted programming language with object-oriented capabilities that allows you to build interactivity into otherwise static HTML pages. The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers.
 
@@ -14,6 +17,9 @@
 // Symbol
 // Number
 // Object
+
+// Q5. Is JavaScript a case-sensitive language?
+// Yes, JavaScript is a case sensitive language.  The language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
 
 // Q7. How can you create an object in JavaScript?
 // JavaScript supports Object concept very well. You can create an object using the object literal as follows −
