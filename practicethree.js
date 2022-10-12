@@ -2,6 +2,11 @@
 // https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
 
 
+// Q1. What is the difference between Java & JavaScript?
+// Java	JavaScript
+// Java is an OOP programming language.	JavaScript is an OOP scripting language.
+// It creates applications that run in a virtual machine or browser.	The code is run on a browser only.
+// Java code needs to be compiled.	JavaScript code are all in the form of text.
 
 
 // Q2. What is JavaScript?
