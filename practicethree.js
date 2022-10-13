@@ -94,6 +94,18 @@
 // Q15. What is Closure? Give an example.
 // Closures are created whenever a variable that is defined outside the current scope is accessed from within some inner scope. It gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created. To use a closure, simply define a function inside another function and expose it.
 
+
+// Q16. Name some of the built-in methods and the values returned by them.
+// Built-in Method	Values
+// CharAt()	It returns the character at the specified index.
+// Concat()	It joins two or more strings.
+// forEach()	It calls a function for each element in the array.
+// indexOf()	It returns the index within the calling String object of the first occurrence of the specified value.
+// length()	It returns the length of the string.
+// pop()	It removes the last element from an array and returns that element.
+// push()	It adds one or more elements to the end of an array and returns the new length of the array.
+// reverse()	It reverses the order of the elements of an array.
+
 // Q17. What are the variable naming conventions in JavaScript?
 // The following rules are to be followed while naming variables in JavaScript:
 
