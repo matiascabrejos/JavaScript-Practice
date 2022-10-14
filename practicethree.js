@@ -26,6 +26,8 @@
 // Q5. Is JavaScript a case-sensitive language?
 // Yes, JavaScript is a case sensitive language.  The language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
 
+// Q6. What are the advantages of JavaScript?
+
 // Q7. How can you create an object in JavaScript?
 // JavaScript supports Object concept very well. You can create an object using the object literal as follows −
 
