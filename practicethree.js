@@ -222,6 +222,9 @@
 // innerText – It will not process an HTML tag if found in a string
 
 
+// Q34. What is an event bubbling in JavaScript?
+// Event bubbling is a way of event propagation in the HTML DOM API, when an event occurs in an element inside another element, and both elements have registered a handle for that event. With bubbling, the event is first captured and handled by the innermost element and then propagated to outer elements. The execution starts from that event and goes to its parent element. Then the execution passes to its parent element and so on till the body element.
+
 // Q35. What is NaN in JavaScript?
 // NaN is a short form of Not a Number. Since NaN always compares unequal to any number, including NaN, it is usually used to indicate an error condition for a function that should return a valid number. When a string or something else is being converted into a number and that cannot be done, then we get to see NaN.
 
