@@ -228,6 +228,13 @@
 // Q35. What is NaN in JavaScript?
 // NaN is a short form of Not a Number. Since NaN always compares unequal to any number, including NaN, it is usually used to indicate an error condition for a function that should return a valid number. When a string or something else is being converted into a number and that cannot be done, then we get to see NaN.
 
+// Q36. How do JavaScript primitive/object types passed in functions?
+// One of the differences between the two is that Primitive Data Types are passed By Value and Objects are passed By Reference.
+
+// By Value means creating a COPY of the original. Picture it like twins: they are born exactly the same, but the first twin doesn’t lose a leg when the second twin loses his in the war.
+//  By Reference means creating an ALIAS to the original. When your Mom calls you “Pumpkin Pie” although your name is Margaret, this doesn’t suddenly give birth to a clone of yourself: you are still one, but you can be called by these two very different names.
+
+
 // Q39. What are Exports & Imports?
 // Imports and exports help us to write modular JavaScript code. Using Imports and exports we can split our code into multiple files. For example-
 
