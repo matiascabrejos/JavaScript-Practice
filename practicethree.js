@@ -235,6 +235,16 @@
 //  By Reference means creating an ALIAS to the original. When your Mom calls you “Pumpkin Pie” although your name is Margaret, this doesn’t suddenly give birth to a clone of yourself: you are still one, but you can be called by these two very different names.
 
 
+// Q37. How can you convert the string of any base to integer in JavaScript?
+// The parseInt() function is used to convert numbers between different bases. It takes the string to be converted as its first parameter, and the second parameter is the base of the given string.
+
+// For example-
+
+
+// 1
+// parseInt("4F", 16)
+
+
 // Q39. What are Exports & Imports?
 // Imports and exports help us to write modular JavaScript code. Using Imports and exports we can split our code into multiple files. For example-
 
