@@ -289,6 +289,13 @@
 // }
 // The implementation above can also empty arrays, but it is usually not recommended to use this method often.
 
+
+// Q40. What is the ‘Strict’ mode in JavaScript and how can it be enabled?
+// Strict mode is a way to introduce better error-checking into your code.
+
+// When you use strict mode, you cannot use implicitly declared variables, or assign a value to a read-only property, or add a property to an object that is not extensible.
+// You can enable strict mode by adding “use strict” at the beginning of a file, a program, or a function.
+
 // Q41. What is a prompt box in JavaScript?
 // A prompt box is a box which allows the user to enter input by providing a text box. The prompt() method displays a dialog box that prompts the visitor for input. A prompt box is often used if you want the user to input a value before entering a page. When a prompt box pops up, the user will have to click either “OK” or “Cancel” to proceed after entering an input value.
 
