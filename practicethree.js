@@ -245,6 +245,10 @@
 // parseInt("4F", 16)
 
 
+// Q38. What would be the result of 2+5+”3″?
+// Since 2 and 5 are integers, they will be added numerically. And since 3 is a string, its concatenation will be done. So the result would be 73. The ” ” makes all the difference here and represents 3 as a string and not a number.
+
+
 // Q39. What are Exports & Imports?
 // Imports and exports help us to write modular JavaScript code. Using Imports and exports we can split our code into multiple files. For example-
 
