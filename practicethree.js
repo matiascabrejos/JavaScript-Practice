@@ -317,6 +317,22 @@
 // The output would be 1undefined. The if condition statement evaluates using eval, so eval(function f(){}) returns function f(){} (which is true). Therefore, inside the if statement, executing typeof f returns undefined because the if statement code executes at run time, and the statement inside the if condition is evaluated during run time.
 
 
+// Q43. What is the difference between Call & Apply?
+// The call() method calls a function with a given this value and arguments provided individually.
+
+// Syntax-
+
+
+// 1
+// fun.call(thisArg[, arg1[, arg2[, ...]]])
+// The apply() method calls a function with a given this value, and arguments provided as an array.
+
+// Syntax-
+
+
+// 1
+// fun.apply(thisArg, [argsArray])
+
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
