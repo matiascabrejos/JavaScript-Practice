@@ -333,9 +333,33 @@
 // 1
 // fun.apply(thisArg, [argsArray])
 
+
+// Q45. What will be the output of the following code?
+
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// var Output = (function(x)
+// {
+// Delete X;
+// return X;
+// }
+// )(0);
+// console.log(output);
+// The output would be 0. The delete operator is used to delete properties from an object. Here x is not an object but a local variable. delete operators don’t affect local variables.
+
+// In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
+
+
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
+
+
 
 
 
