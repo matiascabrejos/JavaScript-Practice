@@ -355,6 +355,27 @@
 // In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
 
 
+// Q46. What will be the output of the following code?
+
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// var X = { Foo : 1}; 
+// var Output = (function() 
+// { 
+// delete X.foo; 
+// return X.foo; 
+// } 
+// )(); 
+// console.log(output);
+// The output would be undefined. The delete operator is used to delete the property of an object. Here, x is an object which has the property foo, and as it is a self-invoking function, we will delete the foo property from object x. After doing so, when we try to reference a deleted property foo, the result is undefined.
+
+
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
