@@ -1,13 +1,11 @@
 // Another Q and Exercises
 // https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
 
-
 // Q1. What is the difference between Java & JavaScript?
 // Java	JavaScript
 // Java is an OOP programming language.	JavaScript is an OOP scripting language.
 // It creates applications that run in a virtual machine or browser.	The code is run on a browser only.
 // Java code needs to be compiled.	JavaScript code are all in the form of text.
-
 
 // Q2. What is JavaScript?
 // JavaScript is a lightweight, interpreted programming language with object-oriented capabilities that allows you to build interactivity into otherwise static HTML pages. The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers.
@@ -22,6 +20,15 @@
 // Symbol
 // Number
 // Object
+
+// Q4.What are the features of JavaScript ?
+
+//     Following are the features of JavaScript:
+
+// It is a lightweight, interpreted programming language.
+// It is designed for creating network-centric applications.
+// It is complementary to and integrated with Java.
+// It is an open and cross-platform scripting language.
 
 // Q5. Is JavaScript a case-sensitive language?
 // Yes, JavaScript is a case sensitive language.  The language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
@@ -50,7 +57,6 @@
 // Q8. How can you create an Array in JavaScript?
 // You can define arrays using the array literal as follows-
 
-
 // 1
 // 2
 // var x = [];
@@ -71,7 +77,6 @@
 
 // In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
 
-
 // Q11. What is argument objects in JavaScript & how to get the type of arguments passed to a function?
 // JavaScript variable arguments represents the arguments that are passed to a function. Using typeof operator, we can get the type of arguments passed to a function. For example −
 
@@ -88,7 +93,6 @@
 // func(7); //==> "number", 1
 // func("1", "2", "3"); //==> "string", 3
 
-
 // Q12. What are the scopes of a variable in JavaScript?
 // The scope of a variable is the region of your program in which it is defined. JavaScript variable will have only two scopes.
 // • Global Variables − A global variable has global scope which means it is visible everywhere in your JavaScript code.
@@ -102,7 +106,6 @@
 
 // Q15. What is Closure? Give an example.
 // Closures are created whenever a variable that is defined outside the current scope is accessed from within some inner scope. It gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created. To use a closure, simply define a function inside another function and expose it.
-
 
 // Q16. Name some of the built-in methods and the values returned by them.
 // Built-in Method	Values
@@ -125,12 +128,10 @@
 // Q18. How does TypeOf Operator work?
 // The typeof operator is used to get the data type of its operand. The operand can be either a literal or a data structure such as a variable, a function, or an object. It is a unary operator that is placed before its single operand, which can be of any type. Its value is a string indicating the data type of the operand.
 
-
 // Q19. How to create a cookie using JavaScript?
 // The simplest way to create a cookie is to assign a string value to the document.cookie object, which looks like this-
 
 // Syntax :
-
 
 // 1
 // document.cookie = "key1 = value1; key2 = value2; expires = date";
@@ -152,7 +153,6 @@
 // Attributes-  provide more details on an element like id, type, value etc.
 
 // Property-  is the value assigned to the property like type=”text”, value=’Name’ etc.
-
 
 // Q23. List out the different ways an HTML element can be accessed in a JavaScript code.
 // Here are the list of ways an HTML element can be accessed in a Javascript code:
@@ -182,11 +182,8 @@
 // Dynamically: in this, the variable can hold multiple types; like in JS a variable can take number, chars.
 // Statically: in this, the variable can hold only one type, like in Java a variable declared of string can take only set of characters and nothing else.
 
-
 // Q27. What is the difference between Local storage & Session storage?
 // Storage - Edureka
-
-
 
 // Local Storage – The data is not sent back to the server for every HTTP request (HTML, images, JavaScript, CSS, etc) – reducing the amount of traffic between client and server. It will stay until it is manually cleared through settings or program.
 
@@ -203,7 +200,6 @@
 // Q30. What is the difference between undeclared & undefined?
 // Undeclared variables are those that do not exist in a program and are not declared. If the program tries to read the value of an undeclared variable, then a runtime error is encountered. Undefined variables are those that are declared in the program but have not been given any value. If the program tries to read the value of an undefined variable, an undefined value is returned.
 
-
 // Q31. Name some of the JavaScript Frameworks
 // JavaScript Frameworks - JavaScript interview questionsA JavaScript framework is an application framework written in JavaScript. It differs from a JavaScript library in its control flow. There are many JavaScript Frameworks available but some of the most commonly used frameworks are:
 
@@ -215,12 +211,10 @@
 // Window	Document
 // JavaScript window is a global object which holds variables, functions, history, location.	The document also comes under the window and can be considered as the property of the window.
 
-
 // Q33. What is the difference between innerHTML & innerText?
 // innerHTML – It will process an HTML tag if found in a string
 
 // innerText – It will not process an HTML tag if found in a string
-
 
 // Q34. What is an event bubbling in JavaScript?
 // Event bubbling is a way of event propagation in the HTML DOM API, when an event occurs in an element inside another element, and both elements have registered a handle for that event. With bubbling, the event is first captured and handled by the innermost element and then propagated to outer elements. The execution starts from that event and goes to its parent element. Then the execution passes to its parent element and so on till the body element.
@@ -234,20 +228,16 @@
 // By Value means creating a COPY of the original. Picture it like twins: they are born exactly the same, but the first twin doesn’t lose a leg when the second twin loses his in the war.
 //  By Reference means creating an ALIAS to the original. When your Mom calls you “Pumpkin Pie” although your name is Margaret, this doesn’t suddenly give birth to a clone of yourself: you are still one, but you can be called by these two very different names.
 
-
 // Q37. How can you convert the string of any base to integer in JavaScript?
 // The parseInt() function is used to convert numbers between different bases. It takes the string to be converted as its first parameter, and the second parameter is the base of the given string.
 
 // For example-
 
-
 // 1
 // parseInt("4F", 16)
 
-
 // Q38. What would be the result of 2+5+”3″?
 // Since 2 and 5 are integers, they will be added numerically. And since 3 is a string, its concatenation will be done. So the result would be 73. The ” ” makes all the difference here and represents 3 as a string and not a number.
-
 
 // Q39. What are Exports & Imports?
 // Imports and exports help us to write modular JavaScript code. Using Imports and exports we can split our code into multiple files. For example-
@@ -257,13 +247,11 @@
 
 // Method 1 –
 
-
 // 1
 // arrayList = []
 // Above code will set the variable arrayList to a new empty array. This is recommended if you don’t have references to the original array arrayList anywhere else, because it will actually create a new, empty array. You should be careful with this method of emptying the array, because if you have referenced this array from another variable, then the original reference array will remain unchanged.
 
 // Method 2 –
-
 
 // 1
 // arrayList.length = 0;
@@ -271,13 +259,11 @@
 
 // Method 3 –
 
-
 // 1
 // arrayList.splice(0, arrayList.length);
 // The implementation above will also work perfectly. This way of emptying the array will also update all the references to the original array.
 
 // Method 4 –
-
 
 // 1
 // 2
@@ -289,7 +275,6 @@
 // }
 // The implementation above can also empty arrays, but it is usually not recommended to use this method often.
 
-
 // Q40. What is the ‘Strict’ mode in JavaScript and how can it be enabled?
 // Strict mode is a way to introduce better error-checking into your code.
 
@@ -298,7 +283,6 @@
 
 // Q41. What is a prompt box in JavaScript?
 // A prompt box is a box which allows the user to enter input by providing a text box. The prompt() method displays a dialog box that prompts the visitor for input. A prompt box is often used if you want the user to input a value before entering a page. When a prompt box pops up, the user will have to click either “OK” or “Cancel” to proceed after entering an input value.
-
 
 // Q42. What will be the output of the code below?
 
@@ -316,12 +300,10 @@
 // console.log(y);
 // The output would be 1undefined. The if condition statement evaluates using eval, so eval(function f(){}) returns function f(){} (which is true). Therefore, inside the if statement, executing typeof f returns undefined because the if statement code executes at run time, and the statement inside the if condition is evaluated during run time.
 
-
 // Q43. What is the difference between Call & Apply?
 // The call() method calls a function with a given this value and arguments provided individually.
 
 // Syntax-
-
 
 // 1
 // fun.call(thisArg[, arg1[, arg2[, ...]]])
@@ -329,10 +311,8 @@
 
 // Syntax-
 
-
 // 1
 // fun.apply(thisArg, [argsArray])
-
 
 // Q45. What will be the output of the following code?
 
@@ -354,7 +334,6 @@
 
 // In case you are facing any challenges with these JavaScript Interview Questions, please comment on your problems in the section below.
 
-
 // Q46. What will be the output of the following code?
 
 // 1
@@ -365,23 +344,18 @@
 // 6
 // 7
 // 8
-// var X = { Foo : 1}; 
-// var Output = (function() 
-// { 
-// delete X.foo; 
-// return X.foo; 
-// } 
-// )(); 
+// var X = { Foo : 1};
+// var Output = (function()
+// {
+// delete X.foo;
+// return X.foo;
+// }
+// )();
 // console.log(output);
 // The output would be undefined. The delete operator is used to delete the property of an object. Here, x is an object which has the property foo, and as it is a self-invoking function, we will delete the foo property from object x. After doing so, when we try to reference a deleted property foo, the result is undefined.
-
 
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
-
-
-
-
 
 // End of exercises
