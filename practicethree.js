@@ -390,6 +390,23 @@
 
 
 
+// Q48. What will be the output of the code below? 
+
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// //nfe (named function expression)
+// var Foo = Function Bar()
+// {
+// return 7;
+// };
+// typeof Bar();
+// The output would be Reference Error. A function definition can have only one reference variable as its function name.
+
+
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
