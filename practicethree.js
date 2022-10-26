@@ -372,6 +372,23 @@
 // The output would be xyz. Here, emp1 object has company as its prototype property. The delete operator doesn’t delete prototype property. emp1 object doesn’t have company as its own property. However, we can delete the company property directly from the Employee object using delete Employee.company.
 
 
+// Q47. What will be the output of the following code?
+
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// var Employee =
+// {
+// company: 'xyz'
+// }
+// var Emp1 = Object.create(employee);
+// delete Emp1.company Console.log(emp1.company);
+// The output would be xyz. Here, emp1 object has company as its prototype property. The delete operator doesn’t delete prototype property. emp1 object doesn’t have company as its own property. However, we can delete the company property directly from the Employee object using delete Employee.company.
+
+
 
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
