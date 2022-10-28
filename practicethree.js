@@ -390,7 +390,7 @@
 
 
 
-// Q48. What will be the output of the code below? 
+// Q48. What will be the output of the code below?
 
 // 1
 // 2
@@ -410,5 +410,12 @@
 // Q49. What is the reason for wrapping the entire content of a JavaScript source file in a function book?
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
+
+
+// 13 – What is the isNaN function?
+// Answer:
+
+// The isNaN function determines whether a value is, or is not, a number (Not-a-Number). If the value is not a number, it will evaluate to true, and if the value is a number, it will evaluate to false.
+
 
 // End of exercises
