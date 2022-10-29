@@ -411,7 +411,8 @@
 // This is an increasingly common practice, employed by many popular JavaScript libraries. This technique creates a closure around the entire contents of the file which, perhaps most importantly, creates a private namespace and thereby helps avoid potential name clashes between different JavaScript modules and libraries.
 // Another feature of this technique is to allow for an easy alias for a global variable. This is often used in jQuery plugins.
 
-
+// -------------------------------------  Random Qs
+    
 // 13 – What is the isNaN function?
 // Answer:
 
