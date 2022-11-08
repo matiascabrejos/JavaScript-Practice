@@ -15,10 +15,10 @@
 // insert­Man­y(data, options) = insert many documents
 // insert­Man­y([­{},­{},{}]) = needs square brackets
 
-Read
-db.co­­lle­­ct­i­o­n.f­­ind() Display documents from collection
-find(f­ilter, options) find all matching documents
-findOn­e(f­ilter, options) find first matching document
+// Read
+// db.co­­lle­­ct­i­o­n.f­­ind() = Display documents from collection
+// find(f­ilter, options) = find all matching documents
+// findOn­e(f­ilter, options) = find first matching document
 
 Update
 update­One­(fi­lter, data, options)
