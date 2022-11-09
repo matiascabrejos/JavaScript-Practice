@@ -34,8 +34,6 @@ Delete one document
 delete­Man­y(f­ilter, options)
 Delete many documents
 
-Functions
-.count()
-Counts how many results
-.sort(­filter)
-Sort ascend:1 descend: -1
+// Functions
+// .count() = Counts how many results
+// .sort(­filter) = Sort ascend:1 descend: -1
