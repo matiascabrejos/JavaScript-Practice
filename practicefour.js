@@ -20,13 +20,10 @@
 // find(f­ilter, options) = find all matching documents
 // findOn­e(f­ilter, options) = find first matching document
 
-Update
-update­One­(fi­lter, data, options)
-Change one document
-update­Man­y(f­ilter, data, options)
-Change many documents
-replac­eOn­e(f­ilter, data, options)
-Replace document entirely
+// Update
+// update­One­(fi­lter, data, options) = Change one document
+// update­Man­y(f­ilter, data, options) = Change many documents
+// replac­eOn­e(f­ilter, data, options) = Replace document entirely
 
 Delete
 delete­One­(fi­lter, options)
