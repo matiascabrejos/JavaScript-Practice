@@ -25,11 +25,9 @@
 // update­Man­y(f­ilter, data, options) = Change many documents
 // replac­eOn­e(f­ilter, data, options) = Replace document entirely
 
-Delete
-delete­One­(fi­lter, options)
-Delete one document
-delete­Man­y(f­ilter, options)
-Delete many documents
+// Delete
+// delete­One­(fi­lter, options) => Delete one document
+// delete­Man­y(f­ilter, options) => Delete many documents
 
 // Functions
 // .count() = Counts how many results
