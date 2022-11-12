@@ -15,20 +15,29 @@
 // insert­Man­y(data, options) = insert many documents
 // insert­Man­y([­{},­{},{}]) = needs square brackets
 
+
 // Read
+
 // db.co­­lle­­ct­i­o­n.f­­ind() = Display documents from collection
 // find(f­ilter, options) = find all matching documents
 // findOn­e(f­ilter, options) = find first matching document
 
+
 // Update
+
 // update­One­(fi­lter, data, options) = Change one document
 // update­Man­y(f­ilter, data, options) = Change many documents
 // replac­eOn­e(f­ilter, data, options) = Replace document entirely
 
+
 // Delete
+
 // delete­One­(fi­lter, options) => Delete one document
 // delete­Man­y(f­ilter, options) => Delete many documents
 
+
 // Functions
+
 // .count() = Counts how many results
 // .sort(­filter) = Sort ascend:1 descend: -1
+
