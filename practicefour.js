@@ -47,3 +47,5 @@
 	
 // Filters
 
+// {"ke­y": "­val­ue"} = Used for filter arguments to filter collection
+
