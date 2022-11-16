@@ -48,4 +48,5 @@
 // Filters
 
 // {"ke­y": "­val­ue"} = Used for filter arguments to filter collection
+// {key: {$oper­ator: value} } = Operators for querying data
 
