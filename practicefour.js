@@ -49,4 +49,5 @@
 
 // {"ke­y": "­val­ue"} = Used for filter arguments to filter collection
 // {key: {$oper­ator: value} } = Operators for querying data
+// {key: {$exists: true}} = Matches all documents containing subdoc­ument key
 
