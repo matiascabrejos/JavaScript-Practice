@@ -50,4 +50,5 @@
 // {"ke­y": "­val­ue"} = Used for filter arguments to filter collection
 // {key: {$oper­ator: value} } = Operators for querying data
 // {key: {$exists: true}} = Matches all documents containing subdoc­ument key
-// $eq = Matches values that are equal to a specified value.
+// // $eq = Matches values that are equal to a specified value.
+// $gt = Matches values that are greater than a specified value.
