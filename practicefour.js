@@ -55,3 +55,4 @@
 // $gte = Matches values that are greater than or equal to a specified value.
 // $in = Matches any of the values specified in an array
 // syntax: = {key:{$in: [array of values] } }
+// $lt = Matches values that are less than a specified value.
