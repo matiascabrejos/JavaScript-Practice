@@ -59,3 +59,4 @@
 // $lte = Matches values that are less than or equal to a specified value.
 // $ne = Matches all values that are not equal to a specified value.
 // $nin = Matches none of the values specified in an array.
+// $and = Performs AND operation
