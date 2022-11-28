@@ -60,3 +60,4 @@
 // $ne = Matches all values that are not equal to a specified value.
 // $nin = Matches none of the values specified in an array.
 // $and = Performs AND operation
+// find({­doc.su­bdo­c:v­alue}) = Filter sub documents
