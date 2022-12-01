@@ -62,3 +62,5 @@
 // $and = Performs AND operation
 // find({­doc.su­bdo­c:v­alue}) = Filter sub documents
 // {key: {$op: filter}, {filter}} = $and operator is necessary when the same field or operator has to be specified in multiple expres­sions
+
+// https://cheatography.com/tag/mongodb/
