@@ -67,3 +67,4 @@
 // more mongo db cheatsheets
 
 // https://cheatography.com/tag/mongodb/
+// https://cheatography.com/nerv/cheat-sheets/mongodb-shell/
