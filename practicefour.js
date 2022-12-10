@@ -69,3 +69,4 @@
 // https://cheatography.com/tag/mongodb/
 // https://cheatography.com/nerv/cheat-sheets/mongodb-shell/
 // https://cheatography.com/djackson405/cheat-sheets/mongodb/
+// https://cheatography.com/sanjay44/cheat-sheets/extension/
