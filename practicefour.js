@@ -72,3 +72,4 @@
 // https://cheatography.com/sanjay44/cheat-sheets/extension/
 // https://cheatography.com/gelicia/cheat-sheets/mongodb-to-sql/
 // https://cheatography.com/wooandoo/cheat-sheets/mongoose/
+// https://cheatography.com/ovi-mihai/cheat-sheets/mongodb/
