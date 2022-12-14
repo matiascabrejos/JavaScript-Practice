@@ -73,3 +73,5 @@
 // https://cheatography.com/gelicia/cheat-sheets/mongodb-to-sql/
 // https://cheatography.com/wooandoo/cheat-sheets/mongoose/
 // https://cheatography.com/ovi-mihai/cheat-sheets/mongodb/
+// https://cheatography.com/amicheletti/cheat-sheets/mongoengine/
+
