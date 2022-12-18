@@ -76,4 +76,5 @@
 // https://cheatography.com/amicheletti/cheat-sheets/mongoengine/
 // https://cheatography.com/slohja/cheat-sheets/mongodb-community-for-macos-intel/
 // https://cheatography.com/sumanth111999/cheat-sheets/mongodb/
+// https://cheatography.com/istvan/cheat-sheets/mongodb/
 
