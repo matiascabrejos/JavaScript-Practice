@@ -77,4 +77,4 @@
 // https://cheatography.com/slohja/cheat-sheets/mongodb-community-for-macos-intel/
 // https://cheatography.com/sumanth111999/cheat-sheets/mongodb/
 // https://cheatography.com/istvan/cheat-sheets/mongodb/
-
+// https://cheatography.com/elpluto/cheat-sheets/mongodb-shell/
