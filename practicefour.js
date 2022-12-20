@@ -78,3 +78,5 @@
 // https://cheatography.com/sumanth111999/cheat-sheets/mongodb/
 // https://cheatography.com/istvan/cheat-sheets/mongodb/
 // https://cheatography.com/elpluto/cheat-sheets/mongodb-shell/
+// https://cheatography.com/davechild/cheat-sheets/sql-server/
+
