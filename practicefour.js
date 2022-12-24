@@ -82,3 +82,4 @@
 // https://cheatography.com/huda127/cheat-sheets/sql-server-chairul-huda-5212100127/
 // https://cheatography.com/guslong/cheat-sheets/essential-mysql/
 // https://cheatography.com/garisnk/cheat-sheets/garis133-sql-cheat-sheet/
+// https://cheatography.com/xplendit/cheat-sheets/nosql/
