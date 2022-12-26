@@ -84,3 +84,4 @@
 // https://cheatography.com/garisnk/cheat-sheets/garis133-sql-cheat-sheet/
 // https://cheatography.com/xplendit/cheat-sheets/nosql/
 // https://cheatography.com/tme520/cheat-sheets/postgresql/
+// https://cheatography.com/manebanane/cheat-sheets/postgresql/
