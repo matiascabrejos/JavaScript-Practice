@@ -87,3 +87,4 @@
 // https://cheatography.com/manebanane/cheat-sheets/postgresql/
 // https://cheatography.com/bligoubloups/cheat-sheets/heroku-nodejs-postgres/
 // https://cheatography.com/proloser/cheat-sheets/angularjs/
+// https://cheatography.com/spegusess/cheat-sheets/angular/
