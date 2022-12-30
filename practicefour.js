@@ -88,3 +88,4 @@
 // https://cheatography.com/bligoubloups/cheat-sheets/heroku-nodejs-postgres/
 // https://cheatography.com/proloser/cheat-sheets/angularjs/
 // https://cheatography.com/spegusess/cheat-sheets/angular/
+// https://cheatography.com/nathane2005/cheat-sheets/angular-2-forms/
