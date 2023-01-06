@@ -99,3 +99,5 @@
 
 // Node
 // https://cheatography.com/raffi001/cheat-sheets/nodejs/
+
+// https://cheatography.com/gregfinzer/cheat-sheets/typescript/
