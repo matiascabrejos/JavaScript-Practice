@@ -100,4 +100,5 @@
 // Node
 // https://cheatography.com/raffi001/cheat-sheets/nodejs/
 
+// Typescript
 // https://cheatography.com/gregfinzer/cheat-sheets/typescript/
