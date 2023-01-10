@@ -103,5 +103,5 @@
 // Typescript
 // https://cheatography.com/gregfinzer/cheat-sheets/typescript/
 
-Javascript
+// Javascript
 // https://cheatography.com/pyro19d/cheat-sheets/javascript/
