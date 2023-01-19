@@ -111,5 +111,5 @@
 // Javascript
 // https://cheatography.com/pyro19d/cheat-sheets/javascript/
 
-
+Vue
 https://cheatography.com/peanuts-83/cheat-sheets/vue-js/
