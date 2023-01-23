@@ -113,5 +113,5 @@
 
 // Vue
 // https://cheatography.com/peanuts-83/cheat-sheets/vue-js/
-https://cheatography.com/fortyseven/cheat-sheets/basic-vuex/
+// https://cheatography.com/fortyseven/cheat-sheets/basic-vuex/
 
