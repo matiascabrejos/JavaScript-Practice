@@ -115,5 +115,6 @@
 // https://cheatography.com/peanuts-83/cheat-sheets/vue-js/
 // https://cheatography.com/fortyseven/cheat-sheets/basic-vuex/
 
+React
 // https://cheatography.com/jaredcobb/cheat-sheets/es7-react-vscode-shortcuts/
 
