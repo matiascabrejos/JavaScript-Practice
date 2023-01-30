@@ -118,4 +118,6 @@
 // React
 // https://cheatography.com/jaredcobb/cheat-sheets/es7-react-vscode-shortcuts/
 // https://cheatography.com/frankieali4/cheat-sheets/vscode-es7-react-redux-snippets/
+https://cheatography.com/kitallis/cheat-sheets/reactjs/
+
 
