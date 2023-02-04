@@ -120,5 +120,5 @@
 // https://cheatography.com/frankieali4/cheat-sheets/vscode-es7-react-redux-snippets/
 // https://cheatography.com/kitallis/cheat-sheets/reactjs/
 // https://cheatography.com/evidanary/cheat-sheets/react/
-https://cheatography.com/cashm/cheat-sheets/react-and-material-ui-project-startup/
+// https://cheatography.com/cashm/cheat-sheets/react-and-material-ui-project-startup/
 
