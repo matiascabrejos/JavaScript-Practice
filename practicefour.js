@@ -123,4 +123,4 @@
 // https://cheatography.com/cashm/cheat-sheets/react-and-material-ui-project-startup/
 // https://cheatography.com/hackingbeauty/cheat-sheets/react-reusability/
 // https://cheatography.com/irvincnt93/cheat-sheets/hooks-react/
-https://www.vuemastery.com/nuxt-cheat-sheet/
+// https://www.vuemastery.com/nuxt-cheat-sheet/
