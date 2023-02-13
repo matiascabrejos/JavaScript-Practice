@@ -124,5 +124,5 @@
 // https://cheatography.com/hackingbeauty/cheat-sheets/react-reusability/
 // https://cheatography.com/irvincnt93/cheat-sheets/hooks-react/
 
-Nuxt
+// Nuxt
 // https://www.vuemastery.com/nuxt-cheat-sheet/
