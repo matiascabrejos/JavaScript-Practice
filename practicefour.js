@@ -126,4 +126,4 @@
 
 // Nuxt
 // https://www.vuemastery.com/nuxt-cheat-sheet/
-https://medium.com/js-dojo/the-ultimate-nuxt-js-cheat-sheet-96125109d8b8
+// https://medium.com/js-dojo/the-ultimate-nuxt-js-cheat-sheet-96125109d8b8
