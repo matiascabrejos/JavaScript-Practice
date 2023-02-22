@@ -130,4 +130,6 @@
 // https://harlanzw.com/blog/nuxt-3-migration-cheatsheet
 // https://nerdcave.com/tailwind-cheat-sheet
 
+
+Supabase
 // https://supabase.com/docs/guides/getting-started/quickstarts/vue
