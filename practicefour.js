@@ -131,5 +131,5 @@
 // https://nerdcave.com/tailwind-cheat-sheet
 
 
-Supabase
+// Supabase
 // https://supabase.com/docs/guides/getting-started/quickstarts/vue
