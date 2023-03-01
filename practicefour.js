@@ -136,3 +136,5 @@
 // Supabase
 // https://supabase.com/docs/guides/getting-started/quickstarts/vue
 // https://supabase-cheatsheet.vercel.app/guide/basic/database-connection.html
+
+Vue Script Setup
