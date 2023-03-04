@@ -138,4 +138,4 @@
 // https://supabase-cheatsheet.vercel.app/guide/basic/database-connection.html
 
 // Vue Script Setup
-https://fadamakis.com/vue-3-script-setup-cheat-sheet-36572c042128
+// https://fadamakis.com/vue-3-script-setup-cheat-sheet-36572c042128
