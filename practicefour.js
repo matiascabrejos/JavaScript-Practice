@@ -140,4 +140,4 @@
 // Vue Script Setup
 // https://fadamakis.com/vue-3-script-setup-cheat-sheet-36572c042128
 // https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf
-https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf
+// https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf
