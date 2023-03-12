@@ -128,7 +128,7 @@
 // https://www.vuemastery.com/nuxt-cheat-sheet/
 // https://medium.com/js-dojo/the-ultimate-nuxt-js-cheat-sheet-96125109d8b8
 // https://harlanzw.com/blog/nuxt-3-migration-cheatsheet
-https://a.storyblok.com/f/88751/x/f08e494225/cs-nuxt3.pdf
+// https://a.storyblok.com/f/88751/x/f08e494225/cs-nuxt3.pdf
 
 // Tailwind
 // https://nerdcave.com/tailwind-cheat-sheet
