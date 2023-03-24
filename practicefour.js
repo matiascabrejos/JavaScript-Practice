@@ -132,6 +132,7 @@
 
 // Tailwind
 // https://nerdcave.com/tailwind-cheat-sheet
+https://tailwindcomponents.com/cheatsheet/
 
 
 // Supabase
