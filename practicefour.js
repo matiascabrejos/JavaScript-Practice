@@ -152,5 +152,5 @@
 // https://quickref.me/express
 // https://www.codecademy.com/learn/bapi-learn-express/modules/introduction-to-node-js/cheatsheet
 
-https://digitalcloud.training/aws-cheat-sheets/
+// https://digitalcloud.training/aws-cheat-sheets/
 
