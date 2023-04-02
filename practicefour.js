@@ -156,6 +156,6 @@
 // https://digitalcloud.training/aws-cheat-sheets/
 // https://www.interviewbit.com/aws-cheat-sheet/
 
-https://xata.io/
+// https://xata.io/
 
 
