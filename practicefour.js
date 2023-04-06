@@ -158,6 +158,6 @@
 
 // Other Techs
 // https://xata.io/
-https://chat.openai.com/chat
+// https://chat.openai.com/chat
 
 
