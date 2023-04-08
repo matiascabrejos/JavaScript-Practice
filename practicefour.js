@@ -159,6 +159,6 @@
 // Other Techs
 // https://xata.io/
 // https://chat.openai.com/chat
-https://render.com/
+// https://render.com/
 
 
