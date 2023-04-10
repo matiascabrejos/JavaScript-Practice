@@ -161,5 +161,6 @@
 // https://chat.openai.com/chat
 // https://render.com/
 // https://sveltesociety.dev/cheatsheet
+https://www.solidjs.com/
 
 
