@@ -163,5 +163,6 @@
 // https://sveltesociety.dev/cheatsheet
 // https://www.solidjs.com/
 // https://remix.run/
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
 
 
