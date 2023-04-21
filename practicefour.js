@@ -166,5 +166,6 @@
 // https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
 // https://www.mit.edu/~amidi/teaching/data-science-tools/
 // https://education.github.com/git-cheat-sheet-education.pdf
+https://fernando-herrera.com/pdfs/nest-cheatsheet.pdf
 
 
