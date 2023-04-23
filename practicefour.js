@@ -167,5 +167,6 @@
 // https://www.mit.edu/~amidi/teaching/data-science-tools/
 // https://education.github.com/git-cheat-sheet-education.pdf
 // https://fernando-herrera.com/pdfs/nest-cheatsheet.pdf
+https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf
 
 
