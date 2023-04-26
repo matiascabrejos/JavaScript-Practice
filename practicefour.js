@@ -168,6 +168,6 @@
 // https://education.github.com/git-cheat-sheet-education.pdf
 // https://fernando-herrera.com/pdfs/nest-cheatsheet.pdf
 // https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf
-https://www.typescriptlang.org/cheatsheets
+// https://www.typescriptlang.org/cheatsheets
 
 
