@@ -172,4 +172,4 @@
 // https://devhints.io/go
 
 
-https://golang.sk/images/blog/cheatsheets/go-cheat-sheet.pdf
+// https://golang.sk/images/blog/cheatsheets/go-cheat-sheet.pdf
