@@ -174,3 +174,4 @@
 
 // https://golang.sk/images/blog/cheatsheets/go-cheat-sheet.pdf
 // https://github.com/jejoivanic/RxJS-CheatSheet
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
