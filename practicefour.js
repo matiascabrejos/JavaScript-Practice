@@ -178,3 +178,4 @@
 // https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 // https://getbootstrap.com/docs/5.0/examples/cheatsheet/
 // https://coryrylan.com/blog/angular-reactive-forms-cheat-sheet
+https://yoksel.github.io/flex-cheatsheet/
