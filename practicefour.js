@@ -179,3 +179,4 @@
 // https://getbootstrap.com/docs/5.0/examples/cheatsheet/
 // https://coryrylan.com/blog/angular-reactive-forms-cheat-sheet
 // https://yoksel.github.io/flex-cheatsheet/
+https://www.interviewbit.com/angular-cheat-sheet/
