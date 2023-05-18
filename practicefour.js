@@ -181,4 +181,4 @@
 // https://yoksel.github.io/flex-cheatsheet/
 // https://www.interviewbit.com/angular-cheat-sheet/
 // https://vercel.com/guides/using-databases-with-vercel
-https://medium.com/@ana.ariasgonz/the-big-backend-cheat-sheet-e279f36d43de
+// https://medium.com/@ana.ariasgonz/the-big-backend-cheat-sheet-e279f36d43de
