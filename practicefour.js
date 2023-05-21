@@ -183,3 +183,4 @@
 // https://vercel.com/guides/using-databases-with-vercel
 // https://medium.com/@ana.ariasgonz/the-big-backend-cheat-sheet-e279f36d43de
 // https://flowbite.com/tools/tailwind-cheat-sheet/
+https://javascript.plainenglish.io/9-useful-front-end-web-developer-cheatsheets-to-save-time-2e1fe7495e8
