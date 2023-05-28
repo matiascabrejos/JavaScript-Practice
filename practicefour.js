@@ -186,4 +186,4 @@
 // https://javascript.plainenglish.io/9-useful-front-end-web-developer-cheatsheets-to-save-time-2e1fe7495e8
 // https://blog.wrappixel.com/next-js-cheat-sheet/
 // https://pragmaticwebsecurity.com/files/cheatsheets/jwt.pdf
-https://angularsnippets.dev/snippets/signal-reactivity-cheatsheet/
+// https://angularsnippets.dev/snippets/signal-reactivity-cheatsheet/
