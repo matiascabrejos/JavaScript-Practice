@@ -187,4 +187,4 @@
 // https://blog.wrappixel.com/next-js-cheat-sheet/
 // https://pragmaticwebsecurity.com/files/cheatsheets/jwt.pdf
 // https://angularsnippets.dev/snippets/signal-reactivity-cheatsheet/
-https://0xn3va.gitbook.io/cheat-sheets/web-application/cors-misconfiguration
+// https://0xn3va.gitbook.io/cheat-sheets/web-application/cors-misconfiguration
