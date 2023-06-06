@@ -191,3 +191,4 @@
 // https://dev.to/nikacodes/basic-color-theory-for-web-developers-15a0
 // https://github.com/Abonia1/CheatSheet-LLM
 // https://ai.torchbox.com/resources/cheatsheet
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
