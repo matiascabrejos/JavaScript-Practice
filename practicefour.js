@@ -192,3 +192,4 @@
 // https://github.com/Abonia1/CheatSheet-LLM
 // https://ai.torchbox.com/resources/cheatsheet
 // https://gist.github.com/vasanthk/485d1c25737e8e72759f
+https://medium.com/analytics-vidhya/machine-learning-system-design-interview-cheat-sheet-llms-part-4-90753072682b
