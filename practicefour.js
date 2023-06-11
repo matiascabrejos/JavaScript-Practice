@@ -193,4 +193,4 @@
 // https://ai.torchbox.com/resources/cheatsheet
 // https://gist.github.com/vasanthk/485d1c25737e8e72759f
 // https://medium.com/analytics-vidhya/machine-learning-system-design-interview-cheat-sheet-llms-part-4-90753072682b
-https://plainenglish.io/blog/front-end-system-design-guide-9a11381f5e81
+// https://plainenglish.io/blog/front-end-system-design-guide-9a11381f5e81
