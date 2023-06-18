@@ -196,4 +196,4 @@
 // https://plainenglish.io/blog/front-end-system-design-guide-9a11381f5e81
 // https://cheatography.com/sandrock/cheat-sheets/http-1-1-protocol/
 // https://devhints.io/sass
-https://github.com/jaredwilli/devtools-cheatsheet
+// https://github.com/jaredwilli/devtools-cheatsheet
