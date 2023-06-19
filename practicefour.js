@@ -197,3 +197,4 @@
 // https://cheatography.com/sandrock/cheat-sheets/http-1-1-protocol/
 // https://devhints.io/sass
 // https://github.com/jaredwilli/devtools-cheatsheet
+https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
