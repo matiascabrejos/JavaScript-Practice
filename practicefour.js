@@ -199,4 +199,5 @@
 // https://github.com/jaredwilli/devtools-cheatsheet
 // https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
 // https://matplotlib.org/cheatsheets/
+https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python
 
