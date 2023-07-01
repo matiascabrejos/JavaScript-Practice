@@ -203,3 +203,4 @@
 // https://intellipaat.com/blog/tutorial/python-tutorial/pandas-cheat-sheet/?US
 // https://www.kaggle.com/code/themlphdstudent/cheatsheet-matplotlib-charts
 // https://figma-cheat-sheet.christianreich.art/
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
