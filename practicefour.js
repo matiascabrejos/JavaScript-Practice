@@ -204,3 +204,4 @@
 // https://www.kaggle.com/code/themlphdstudent/cheatsheet-matplotlib-charts
 // https://figma-cheat-sheet.christianreich.art/
 // https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+https://spacelift.io/blog/kubernetes-cheat-sheet
