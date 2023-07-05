@@ -205,3 +205,4 @@
 // https://figma-cheat-sheet.christianreich.art/
 // https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 // https://spacelift.io/blog/kubernetes-cheat-sheet
+https://teamhood.com/agile/scrum-cheat-sheet/
